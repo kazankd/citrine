@@ -15,7 +15,7 @@ mvn test
 
 To run a single unit test, all the -Dtest option at the end:
 ```
-mvn test -Dtest=ApplicationTests#threeParameterIdentityConversion
+mvn test -Dtest=ApplicationTests#threeParameterConversion
 ```
 
 ## Run
